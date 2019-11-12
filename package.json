@@ -1,0 +1,29 @@
+{
+  "name": "key-book",
+  "version": "1.0.0",
+  "description": "\"create frozen enum objects from a string array\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jh3y/key-book.git"
+  },
+  "keywords": [
+    "enum",
+    "javascript",
+    "key",
+    "mirror",
+    "object"
+  ],
+  "author": "jh3y <jh3y@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jh3y/key-book/issues"
+  },
+  "homepage": "https://github.com/jh3y/key-book#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
