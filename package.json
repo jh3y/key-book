@@ -1,7 +1,7 @@
 {
   "name": "key-book",
-  "version": "1.1.1",
-  "description": "\"create frozen enum objects from a string array\"",
+  "version": "1.1.2",
+  "description": "create frozen string reference look ups from a string array",
   "main": "index.js",
   "scripts": {
     "test": "mocha"

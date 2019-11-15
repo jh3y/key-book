@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/jh3y/key-book.svg?branch=master)](https://travis-ci.org/jh3y/key-book)
 # key-book 🔑
 
 Create string reference look ups from a string array in JavaScript ❄️
